@@ -13,7 +13,10 @@ end
 return new_array.join(" ")
 end
 
-
+sentence = ("Hello there, and how are you?")
+def reverse_each_word(sentence)
+  sentence.collect do words
+end
 
 
 
